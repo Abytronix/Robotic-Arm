@@ -1,6 +1,6 @@
 # Bluetooth-Controlled Robotic Arm
 
-![Robotic Arm](path_to_image.jpg) <!-- Replace with an actual image path -->
+![Robotic Arm](Robotic Arm/PDF/robotic arm.png) <!-- Replace with an actual image path -->
 
 ## Overview
 The **Bluetooth-Controlled Robotic Arm** is an innovative project designed to provide remote manipulation capabilities through a custom mobile application. Utilizing Arduino UNO, servo motors, and Bluetooth technology, this robotic arm can perform a variety of tasks, showcasing the power of automation in a fun and interactive way.
